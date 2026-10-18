@@ -1,0 +1,11 @@
+id_transaccion,cliente,producto,cantidad,precio_unitario,fecha
+1001,Ana,Laptop,1,12500,2026-10-01
+1002,Carlos,Mouse,2,350,2026-10-02
+1003,Maria,Teclado,1,850,2026-10-03
+1004,Pedro,Monitor,1,4200,2026-10-04
+1005,Sofia,Audifonos,2,750,2026-10-05
+1006,Luis,Mouse,3,350,2026-10-06
+1007,Ana,Monitor,1,4200,2026-10-07
+1008,Carlos,Teclado,2,850,2026-10-08
+1009,Maria,Laptop,1,12500,2026-10-09
+1010,Sofia,Audifonos,1,750,2026-10-10

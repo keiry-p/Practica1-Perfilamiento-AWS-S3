@@ -1,0 +1,22 @@
+# Credenciales privadas
+conexion_s3_privada.py
+.env
+.env.*
+.aws/
+*credentials*
+*.pem
+*.key
+
+# Entornos virtuales
+.venv/
+venv/
+
+# Archivos temporales
+__pycache__/
+*.pyc
+
+# Configuración de VS Code
+.vscode/
+
+# Script auxiliar local
+subir_csv.py
